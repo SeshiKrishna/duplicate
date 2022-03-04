@@ -1,0 +1,23 @@
+.card-1{
+  padding: 20px;
+  
+}
+
+.inner-card{
+  background-color: #dedede;
+  border-radius: 20px;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.sales-btn{
+  color: #4287f5;
+  border-color: #4287f5;
+  border-radius: 25px;
+  width: 5%;
+  border-style: solid;
+  border-width: 1px;
+}

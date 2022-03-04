@@ -1,0 +1,82 @@
+.bg-container{
+    background-color: #e8eaf1;
+    padding: 20px;
+}
+.sales-order-page{
+    padding: 20px;
+    background-color: white;
+    height: 100vh;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 25px;
+    padding-bottom: 20px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.heading{
+    padding-left: 20px;
+}
+.img{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+.search-bar-div{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
+.search-bar{
+    width: 80vw;
+    height: 40px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+}
+.icon{
+    color: blue;
+}
+
+.details-card{
+    background-color: #e8eaf1;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.card-line{
+    border:none;
+    border-top:1px dashed #c4c3be;
+}
+.button-div{
+    text-align: center;
+}
+
+.transfer-btn{
+    background-color: white;
+    color: #6aa6a4;
+    border-color: #6aa6a4;
+    border-style: solid;
+    border-width: 1px;
+    height: 40px;
+    width: 25%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+
+.ship-btn{
+    background-color: #6aa6a4;
+    color: white;
+    height: 40px;
+    width: 15%;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+    border-color: #6aa6a4;
+    cursor: pointer;
+}
